@@ -70,7 +70,7 @@ def add_receiver_to_order(order_id):
             'Postcode': '1234 AB Barneveld',
             'Land': 'Nederland',
             ### tekst op het kaartje
-            'Multiline': 'Beste Dion, \n\ndit is een test order via de API\n\nNog een regel\n\nmet vriendelijke groet,\n Maas'
+            'Multiline': 'Beste Jan, \n\ndit is een test order via de API\n\nNog een regel\n\nmet vriendelijke groet,\n Maas'
             }
 
     }
